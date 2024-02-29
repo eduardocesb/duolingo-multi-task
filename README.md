@@ -6,7 +6,7 @@
 
 ## Features
 
-- **Automated Lesson Completion**: Automatically completes Duolingo lessons for you.
+- **Automated Lesson Completion**: Automatically completes Duolingo lessons for you. Currently, the script only works in history lessons.
 - **Parallel Tasking**: Capable of handling multiple lessons simultaneously, providing a swift XP gain.
 - **Configurable**: Options to customize which lessons to take and how many instances to run in parallel.
 
