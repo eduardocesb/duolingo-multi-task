@@ -71,7 +71,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Disclaimer
 
-This tool is intended for educational purposes only. Please respect Duolingo's terms of use. The creators of ***Duolingo Multi Task*** are not responsible for any actions taken by its users.
+This tool, ***Duolingo Multi Task***, is developed for educational purposes and personal use only. It is designed to demonstrate the capabilities of automation and should be used responsibly and ethically with respect to Duolingo's terms of service and guidelines.
+
+- **Compliance with Duolingo's Terms of Service**: Users are advised to review and comply with [Duolingo's Terms of Service](https://www.duolingo.com/terms) before using this tool. Any use of this script that violates Duolingo's terms is strictly prohibited and the responsibility of the user.
+
+- **Fair Use Policy**: This script should be used in a way that does not harm Duolingo's service or other users' experience. It is not intended for cheating or gaining an unfair advantage in language learning progress.
+
+- **Potential Risks**: Users should be aware that the use of automated scripts on Duolingo's platform may lead to account restrictions or bans if detected. The creators of ***Duolingo Multi Task*** will not be liable for any account issues, including restrictions or bans, resulting from the use of this script.
+
+- **Educational Intent**: The primary intent of this tool is educational, to showcase programming and automation skills. It is not intended to encourage or promote any form of cheating or violation of service terms.
+
+By using ***Duolingo Multi Task***, users acknowledge and agree to these terms, assuming full responsibility for any consequences that may arise from its use.
 
 ## Acknowledgements
 
